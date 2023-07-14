@@ -9,14 +9,19 @@ ul{
     padding: 0;
 }
 
-li{
-
-    color: aliceblue;
+li {
+    float: left;
+  }
+  
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
 
 li a{
     color: aliceblue;
-    display: block;
+    display: inline;
     width: 60px;
 }
 
