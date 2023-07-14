@@ -1,5 +1,6 @@
 body{
     background: deepskyblue;
+    margin: 0;
 }
 
 ul {
@@ -8,7 +9,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #1c7eac;
-}
+  }
 
 li {
   float: left;
