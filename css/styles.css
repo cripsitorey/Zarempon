@@ -1,5 +1,5 @@
 body{
-    background: deepskyblue;
+    background: rgb(27, 123, 155);
     margin: 0;
 }
 
@@ -26,4 +26,21 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
+}
+
+section{
+  margin: 0.6%;
+
+}
+
+#SM h1{
+  color: #e2c20e;
+  font-family: VT323, monospace;
+  font-size: 32px;
+}
+
+#XP h1 {
+  color: #e2740e;
+  text-align: center;
+  font-size: 3em;
 }
