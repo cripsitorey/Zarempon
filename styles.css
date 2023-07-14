@@ -1,0 +1,22 @@
+body{
+    background: deepskyblue;
+}
+
+ul{
+    color: aliceblue;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+
+    color: aliceblue;
+}
+
+li a{
+    color: aliceblue;
+    display: block;
+    width: 60px;
+}
+
